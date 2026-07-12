@@ -16,4 +16,5 @@ QUIZ SPECS:
 - Design: clean, mobile-first, fun but not childish. Use CSS in the same file. No external dependencies.
 
 FINAL STEPS:
+Outline the evaluation criteria you will use to ensure a high-quality final product. Be precise.
 When complete, write the file to /mini_claude/pickleball/quiz.html and log "JOB'S DONE" to /mini_claude/builder-log.md.
